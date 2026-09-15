@@ -4,3 +4,4 @@ def greet(name):
 if __name__ == "__main__":
     user_name = "World"
     print(greet(user_name))
+    print("This message was added directly on GitHub.")
